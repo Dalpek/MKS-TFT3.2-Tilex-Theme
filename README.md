@@ -6,4 +6,4 @@ Based on the original Win8 theme. Has a more legible font, better translation, n
 Tested on MKS-TFT32 V3.0.6 firmware. Don't forget adapt mks_config.txt to your printer hardware.
 
 Win10 theme:
-![alt Screenshot 0](https://github.com/Dalpek/MKS-TFT3.2-UI-Theme-Mod/blob/master/screenshots/screenshot0.jpg?raw=true)
+![alt Screenshot 0](https://github.com/Dalpek/MKS-TFT3.2-UI-Theme-Mod/blob/main/screenshots/screenshot0.jpg)
