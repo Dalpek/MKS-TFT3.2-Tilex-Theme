@@ -1,5 +1,5 @@
 # MKS-TFT3.2-Tilex-Theme
-TILEX - GUI theme for Makerbase MKS-TFT3.2 and MKS-TFT2.4 display
+TILEX - GUI theme for Makerbase MKS-TFT3.2 and MKS-TFT2.4 displays
 
 Based on the original Win8 theme. Has a more legible font, better translation, new icons and colors.
 
