@@ -5,7 +5,7 @@ Based on the original Win8 theme. Has a more legible font, better translation, n
 
 Tested on MKS-TFT32 V3.0.6 firmware. Don't forget adapt mks_config.txt to your printer hardware.
 
-Get firmware and general isntructions at MKS oficial github page: [click here](https://github.com/makerbase-mks/MKS-TFT)
+Get firmware and general instructions at MKS oficial github page: [click here](https://github.com/makerbase-mks/MKS-TFT)
 
 Tilex theme screenshots:
 
