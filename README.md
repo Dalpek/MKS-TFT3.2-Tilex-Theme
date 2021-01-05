@@ -23,6 +23,6 @@ Tilex theme screenshots:
 
 ![alt Screenshot 7](https://github.com/Dalpek/MKS-TFT3.2-Tilex-Theme/blob/main/screenshots/screenshot7.jpg)
 
-Tilex stratup logo:
+Tilex theme startup logo:
 
 ![alt Screenshot 8](https://github.com/Dalpek/MKS-TFT3.2-Tilex-Theme/blob/main/screenshots/screenshot8.jpg)
